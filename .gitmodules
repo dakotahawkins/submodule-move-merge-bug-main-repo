@@ -1,0 +1,3 @@
+[submodule "submodule-location-1"]
+	path = submodule-location-1
+	url = ../submodule-move-merge-bug-submodule-repo.git
